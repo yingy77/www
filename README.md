@@ -1,1 +1,1 @@
-# vercel-site
+# sample static www site
