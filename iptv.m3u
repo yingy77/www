@@ -1,153 +1,129 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV1.png" group-title="央视",CCTV-1
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV2.png" group-title="央视",CCTV-2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-id="A03" tvg-name="CCTV3" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV3.png" group-title="央视",CCTV-3
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 tvg-id="A04" tvg-name="CCTV4" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV4.png" group-title="央视",CCTV-4
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 #EXTINF:-1 tvg-id="A05" tvg-name="CCTV5" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV5.png" group-title="央视",CCTV-5
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="A06" tvg-name="CCTV5+" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV5plus.png" group-title="央视",CCTV-5+
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-id="A07" tvg-name="CCTV6" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV6.png" group-title="央视",CCTV-6
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 tvg-id="A08" tvg-name="CCTV7" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV7.png" group-title="央视",CCTV-7
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 tvg-id="A09" tvg-name="CCTV8" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV8.png" group-title="央视",CCTV-8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 #EXTINF:-1 tvg-id="A10" tvg-name="CCTV9" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV9.png" group-title="央视",CCTV-9
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-id="A11" tvg-name="CCTV10" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV10.png" group-title="央视",CCTV-10
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 tvg-id="A12" tvg-name="CCTV11" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV11.png" group-title="央视",CCTV-11
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 #EXTINF:-1 tvg-id="A13" tvg-name="CCTV12" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV12.png" group-title="央视",CCTV-12
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 tvg-id="A14" tvg-name="CCTV13" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV13.png" group-title="央视",CCTV-13
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-id="A15" tvg-name="CCTV14" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV14.png" group-title="央视",CCTV-14
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-id="A16" tvg-name="CCTV15" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV15.png" group-title="央视",CCTV-15
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 tvg-id="A17" tvg-name="CCTV16" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV16.png" group-title="央视",CCTV-16
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="A18" tvg-name="CCTV17" tvg-logo="https://yingy77.github.io/www/TVlogo/CCTV17.png" group-title="央视",CCTV-17
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 #EXTINF:-1 tvg-id="B21" tvg-name="黑龙江卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Heilongjiang.png" group-title="卫视",黑龙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 #EXTINF:-1 tvg-id="B25" tvg-name="东南卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Dongnan.png" group-title="卫视",东南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 #EXTINF:-1 tvg-id="B02" tvg-name="东方卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Dongfang.png" group-title="卫视",东方卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 tvg-id="B01" tvg-name="北京卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Beijing.png" group-title="卫视",北京卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-id="B23" tvg-name="吉林卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Jilin.png" group-title="卫视",吉林卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-id="B12" tvg-name="四川卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Sichuan.png" group-title="卫视",四川卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 tvg-id="B13" tvg-name="天津卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Tianjin.png" group-title="卫视",天津卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 #EXTINF:-1 tvg-id="B14" tvg-name="安徽卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Anhui.png" group-title="卫视",安徽卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 tvg-id="B15" tvg-name="山东卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Shandong.png" group-title="卫视",山东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 #EXTINF:-1 tvg-id="B16" tvg-name="广东卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Guangdong.png" group-title="卫视",广东卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-id="B05" tvg-name="江苏卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Jiangsu.png" group-title="卫视",江苏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 #EXTINF:-1 tvg-id="B06" tvg-name="江西卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Jiangxi.png" group-title="卫视",江西卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 tvg-id="B07" tvg-name="河北卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Hebei.png" group-title="卫视",河北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-id="B08" tvg-name="河南卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Henan.png" group-title="卫视",河南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 tvg-id="B04" tvg-name="浙江卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Zhejiang.png" group-title="卫视",浙江卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 tvg-id="B09" tvg-name="海南卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Hainan.png" group-title="卫视",海南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="B11" tvg-name="湖北卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Hubei.png" group-title="卫视",湖北卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 #EXTINF:-1 tvg-id="B03" tvg-name="湖南卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Hunan.png" group-title="卫视",湖南卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 tvg-id="B18" tvg-name="贵州卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Guizhou.png" group-title="卫视",贵州卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 tvg-id="B20" tvg-name="重庆卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Chongqing.png" group-title="卫视",重庆卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 #EXTINF:-1 tvg-id="B10" tvg-name="深圳卫视" tvg-logo="https://yingy77.github.io/www/TVlogo/Shenzhen.png" group-title="卫视",深圳卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 
 #EXTINF:-1 tvg-id="C01" tvg-name="NewTV军事评论" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV01.png" group-title="NewTV",NewTV军事评论
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 #EXTINF:-1 tvg-id="C02" tvg-name="NewTV军旅剧场" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV02.png" group-title="NewTV",NewTV军旅剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 tvg-id="C03" tvg-name="NewTV动作电影" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV03.png" group-title="NewTV",NewTV动作电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 tvg-id="C05" tvg-name="NewTV家庭剧场" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV05.png" group-title="NewTV",NewTV家庭剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 tvg-id="C06" tvg-name="NewTV海外剧场" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV06.png" group-title="NewTV",NewTV海外剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 tvg-id="C07" tvg-name="NewTV中国功夫" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV07.png" group-title="NewTV",NewTV中国功夫
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 #EXTINF:-1 tvg-id="C08" tvg-name="NewTV农业致富" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV08.png" group-title="NewTV",NewTV农业致富
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 #EXTINF:-1 tvg-id="C09" tvg-name="NewTV东北热剧" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV09.png" group-title="NewTV",NewTV东北热剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 tvg-id="C10" tvg-name="NewTV惊悚悬疑" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV10.png" group-title="NewTV",NewTV惊悚悬疑
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-id="C11" tvg-name="NewTV怡伴健康" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV11.png" group-title="NewTV",NewTV怡伴健康
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-id="C12" tvg-name="NewTV明星大片" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV12.png" group-title="NewTV",NewTV明星大片
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 #EXTINF:-1 tvg-id="C13" tvg-name="NewTV欢乐剧场" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV13.png" group-title="NewTV",NewTV欢乐剧场
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 tvg-id="C14" tvg-name="NewTV武搏世界" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV14.png" group-title="NewTV",NewTV武搏世界
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 tvg-id="C15" tvg-name="NewTV潮妈辣婆" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV15.png" group-title="NewTV",NewTV潮妈辣婆
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 #EXTINF:-1 tvg-id="C17" tvg-name="NewTV爱情喜剧" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV17.png" group-title="NewTV",NewTV爱情喜剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-id="C18" tvg-name="NewTV精品体育" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV18.png" group-title="NewTV",NewTV精品体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="C19" tvg-name="NewTV精品大剧" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV19.png" group-title="NewTV",NewTV精品大剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 #EXTINF:-1 tvg-id="C20" tvg-name="NewTV精品纪录" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV20.png" group-title="NewTV",NewTV精品纪录
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-id="C21" tvg-name="NewTV金牌综艺" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV21.png" group-title="NewTV",NewTV金牌综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 #EXTINF:-1 tvg-id="C22" tvg-name="NewTV超级体育" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV22.png" group-title="NewTV",NewTV超级体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-id="C23" tvg-name="NewTV超级电影" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV23.png" group-title="NewTV",NewTV超级电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="C24" tvg-name="NewTV超级综艺" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV24.png" group-title="NewTV",NewTV超级综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-id="C25" tvg-name="NewTV超级电视剧" tvg-logo="https://yingy77.github.io/www/TVlogo/NewTV25.png" group-title="NewTV",NewTV超级电视剧
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-id="C27" tvg-name="NewTV精品萌宠" group-title="NewTV",NewTV精品萌宠
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-
-#EXTINF:-1 tvg-id="D01" tvg-name="咪咕全民热练" group-title="咪咕",咪咕全民热练
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
-#EXTINF:-1 tvg-id="D02" tvg-name="咪咕视频" group-title="咪咕",咪咕视频
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-id="D03" tvg-name="咪咕视频" group-title="咪咕",咪咕视频
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1 tvg-id="D04" tvg-name="咪咕视频" group-title="咪咕",咪咕视频
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1 tvg-id="D05" tvg-name="咪咕视频" group-title="咪咕",咪咕视频
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-#EXTINF:-1 tvg-id="D06" tvg-name="咪咕视频" group-title="咪咕",咪咕视频
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-
-#EXTINF:-1 tvg-id="E01" tvg-name="黑莓动画" group-title="其他",黑莓动画
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="E02" tvg-name="黑莓电影" group-title="其他",黑莓电影
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-id="E03" tvg-name="哒啵赛事" group-title="其他",哒啵赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-id="E04" tvg-name="上海纪实人文" group-title="其他",上海纪实人文
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 tvg-id="E05" tvg-name="北京纪实科教" group-title="其他",北京纪实科教
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
